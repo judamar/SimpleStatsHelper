@@ -1,0 +1,20 @@
+{
+	"id": "simple_stats_helper",
+	"version": "1.0.0",
+	"name": "simple_stats_helper",
+	"description": {
+		"en_us": "A Minecraft statistic helper"
+	},
+	"author": [
+		"Fallen_Breath",
+        "Averroes",
+        "judamar"
+	],
+	"link": "https://github.com/judamar/SimpleStatsHelper",
+	"dependencies": {
+		"mcdreforged": ">=2.1.0-beta.1"
+	},
+	"resources": [
+		"LICENSE"
+	]
+}
